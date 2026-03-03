@@ -93,3 +93,6 @@ body {
   border-radius: 12px;
   object-fit: cover;
 }
+  body {
+  background: red;
+}
