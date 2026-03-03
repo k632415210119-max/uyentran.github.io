@@ -104,3 +104,10 @@ body {
   border: 4px solid white;
   margin-bottom: 20px;
 }
+  header {
+  background: url("img/header-bg.jpg") center/cover no-repeat;
+  color: white;
+  text-align: center;
+  padding: 80px 20px;
+  position: relative;
+}
